@@ -89,4 +89,5 @@ There are still some things that need to be done!
 
 - Unit tests
 - Documentation.  Add in-depth documentation for the API using Swagger, and also add notes for querying entries with a third-party database querying tool.
+- Setup Docker Compose
 
